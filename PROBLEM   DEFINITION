@@ -1,0 +1,11 @@
+ PROBLEM   DEFINITION
+While QR Codes are quite the sturdy technology and are easy to read with any smartphone, sometimes improper designs can render them unscannable.
+There are things to look out for such as colour mismatches, materials the QR Code will be used on, its size, and more. 
+QR code are the most normalized and growing technologies in this techno world, but people are unable to understand about the QR code wisely. 
+Some QR code has pixel issues like when we scan the code, we’re unable to get the information that is compressed in the QR code.
+Here we ‘ve outlined the most common QR Code scanning problems and how they can be resolved.
+The ideal size would be if the QR Code is at minimum four times larger than the width of your QR Code modules. 
+When in original form, the modules are the black pixels that make up the QR Code (or also come in colour when customized). 
+The more data that you add to a QR Code, the smaller those pixels will become.	
+Describe how the QR code generated with a step-by-step implementation, what types of files can be converted into QR code and clear vision about QR code.
+In our project we present you a more valid and clear code that gives you the information that the code contains in it within a fraction of seconds.

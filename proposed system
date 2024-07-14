@@ -1,0 +1,12 @@
+PROPOSED   SYSTEM
+
+QR code generator is a software which stores the data into QR code. 
+For example, text, audio, video, url or website address. This can be easily done by our online QR code generator.
+Just create the QR code by typing your data in the complier and download the generated QR code with high resolution with jpeg or png. 
+Now you can just create your own QR code freely and accurately. 
+The`format`information`records`two`things:`the`error`correction`level`and`the`mask`pattern`used`for`the`symbol.
+`Masking`is`used`to`break`up`patterns`in`the`data`area`that`might`confuse`a`scanner,`such`as`large`blank`areas`or`misleading`features`that`look`like`the`locator`marks.
+`The`mask`patterns`are`defined`on`a`grid`that`is`repeated`as`necessary`to`cover`the`whole`symbol.`Modules`corresponding`to`the`dark`areas`of`the`mask`are`inverted.
+`The`format`information`is`protected`from`errors`with`a`BCH`code,`and`two`complete`copies`are`included`in`each`QR`symbol. 
+The`message`dataset`is`placed`from`right`to`left`in`a`zigzag`pattern,`as`shown`below.
+`In`larger`symbols,`this`is`complicated`by`the`presence`of`the`alignment`patterns`and`the`use`of`multiple`interleaved`error-correction`blocks.  
